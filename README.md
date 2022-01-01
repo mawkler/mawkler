@@ -12,12 +12,12 @@
 </div>
 
 <div align='center'>
-  <a href="https://github.com/Melkster/nvim/">Neovim configuration</a>
+  <a href="https://github.com/melkster/nvim/">Neovim configuration</a>
   <br>
 </div>
 
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Melkster&show_icons=true&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=melkster&show_icons=true&theme=onedark"/>
 </p>
