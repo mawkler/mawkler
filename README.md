@@ -6,7 +6,14 @@
 </p>
 
 <div align='center'>
-  <b>Software developer and Neovim enjoyer</b><br>
+  <b>Software developer and Neovim enjoyer</b>
+  <br>
+  <br>
+</div>
+
+<div align='center'>
+  <a href="https://github.com/Melkster/nvim/">Neovim configuration</a>
+  <br>
 </div>
 
 <hr/>
