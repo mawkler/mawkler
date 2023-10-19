@@ -7,7 +7,7 @@
 </p>
 
 <div align='center'>
-  <b>Software developer and Neovim enjoyer</b>
+  <b>Software engineer and Neovim enjoyer</b>
   <br>
   <br>
 </div>
