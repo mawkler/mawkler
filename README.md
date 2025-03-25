@@ -9,6 +9,7 @@ Check out my Neovim plugins:
 - [modicator.nvim](https://github.com/mawkler/modicator.nvim)
 - [demicolon.nvim](https://github.com/mawkler/demicolon.nvim)
 - [refjump.nvim](https://github.com/mawkler/refjump.nvim)
+- [jsx-element.nvim](https://github.com/mawkler/jsx-element.nvim)
 - [hml.nvim](https://github.com/mawkler/hml.nvim)
 - [move-mode.nvim](https://github.com/mawkler/move-mode.nvim)
 
